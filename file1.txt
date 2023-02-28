@@ -2,9 +2,4 @@ Hello world, I am in GITHUB
 step by step how to connect SNS to aws pipelinesome changes
 are made by me
 to check sns with pipline
-more more and more
 more and more
-more and more
-fsf
-sdfsdf
-sdfsdf
